@@ -15,8 +15,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/tonyespy/gxds/examples/simple"
-	"github.com/tonyespy/gxds"
+	"github.com/edgexfoundry/device-sdk-go/device/examples/simple"
+	"github.com/edgexfoundry/device-sdk-go/device"
 )
 
 const (
